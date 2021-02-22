@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.pdp.test.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 107, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 490.175 sec <<< FAILURE! - in com.pdp.test.RunnerTest
+Then To verify the profile percentage(| environment |)  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+
+| environment |  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+

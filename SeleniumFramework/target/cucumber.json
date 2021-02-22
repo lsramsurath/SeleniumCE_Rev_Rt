@@ -1,0 +1,163 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14008433800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SetUp.setupTest(Scenario)"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Rev Registration manually",
+        "description": "",
+        "id": "rev-smoke-testing;rev-registration-manually;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 587000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SetUp.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16287697200,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Load the url \"environmentrev\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "environmentrev",
+                  "offset": 14
+                }
+              ],
+              "location": "StepDefination.Load_the_url(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 277265800,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Click on Accept cookies",
+            "match": {
+              "location": "StepDefination.Click_on_Accept_cookies()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 332952800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "Entering the \"txtUserName\" as \"UserNameRev\" in login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "txtUserName",
+                  "offset": 14
+                },
+                {
+                  "val": "UserNameRev",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefination.Entering_the_details_login_page(String,String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 232383200,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "Entering the \"txtPassword\" as \"Password\" in login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "txtPassword",
+                  "offset": 14
+                },
+                {
+                  "val": "Password",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefination.Entering_the_details_login_page(String,String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 101073073700,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Clicking on the \"LOGIN\" button in login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LOGIN",
+                  "offset": 17
+                }
+              ],
+              "location": "StepDefination.Clicking_on_the_button_in_login_page(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4001692000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Wait for the page to load \"4000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4000",
+                  "offset": 27
+                }
+              ],
+              "location": "StepDefination.Wait_for_the_page_to_load(int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 27,
+            "name": "@run"
+          }
+        ]
+      }
+    ],
+    "name": "Rev smoke testing",
+    "description": "",
+    "id": "rev-smoke-testing",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/Rev.feature"
+  }
+]

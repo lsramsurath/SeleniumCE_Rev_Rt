@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pdp.test.RunnerTest" time="490.175" tests="107" errors="0" skipped="1" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\us385667\SeleniumFramework_mpg"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\us385667\SeleniumFramework_mpg"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\us385667\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\Java\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\apache-maven-3.6.3\bin;C:\Users\us385667\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_191\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\Java\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\Java\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\us385667"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="us385667"/>
+    <property name="java.class.path" value="C:\Program Files\Java\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_191\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\Java\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Given Load the url &quot;environment&quot;" classname="| environment | 10006 |" time="0.002"/>
+  <testcase name="Then Clicking on Signup button" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting email ID in sign up" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;password&quot; as &quot;Right@123&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;confirmpassword&quot; as &quot;Right@123&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Clicking on the &quot;signUpNewBtn&quot; button" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Click on Create Manual Profile" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;firstName&quot; as &quot;Bat&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;lastname&quot; as &quot;Man&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;streetAddress1&quot; as &quot;220,P.K.Street&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;city&quot; as &quot;Milwauke&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;postCode&quot; as &quot;10006&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Setting &quot;phoneNumber&quot; as &quot;9876543212&quot;" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Slecting &quot;Alaska&quot; from &quot;state&quot; dropdown" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Slecting skills &quot;Java - Programming&quot; from the skill dropdown" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Clicking on the &quot;contactNext&quot; button" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Clicking on the &quot;Phone&quot; in communication prferances" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Clicking on the &quot;Weekly Email Notifications&quot; in communication prferances" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Clicking on the &quot;finishProfile&quot; button" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then To verify the profile created" classname="| environment | 10006 |" time="0"/>
+  <testcase name="Then Sign out of the user" classname="| environment | 10006 |" time="0"/>
+  <testcase name="| environment | 10006 |" classname="| environment | 10006 |" time="4.701"/>
+  <testcase name="Given Load the url &quot;environment&quot;" classname="| environment |" time="0"/>
+  <testcase name="Given Load the url &quot;environment&quot;" classname="| environment |" time="0"/>
+  <testcase name="Given Load the url &quot;environment&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Login button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Login button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Login button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Login button" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Email&quot; in login &quot;txtUserName&quot; from output" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Email&quot; in login &quot;txtUserName&quot; from output" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Email&quot; in login &quot;txtUserName&quot; from output" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Email&quot; in login &quot;txtUserName&quot; from output" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Password&quot; in login &quot;txtPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Password&quot; in login &quot;txtPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;Password&quot; in login &quot;txtPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on the &quot;loginbtn&quot; button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on the &quot;loginbtn&quot; button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on the &quot;loginbtn&quot; button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on the &quot;loginbtn&quot; button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Manage Your Profile&quot; in about me page" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;#editExperienceModal&quot; in manage profile page" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;companyName1&quot; as &quot;Wayne Enterprises&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;title1&quot; as &quot;CEO&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Selecting Start and end date as &quot;Current&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Save experience button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;#editEducationModal&quot; in manage profile page" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;schoolName1&quot; as &quot;BVB&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Slecting Other from degree dropdown" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on the no checkbox" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Save education button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;#editResumeUploadModal&quot; in manage profile page" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Upload resume link" classname="| environment |" time="0"/>
+  <testcase name="Then Uploading the resume" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Upload button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Save resume button" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;About Me&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;About Me&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;About Me&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then To verify the profile percentage" classname="| environment |" time="0.006">
+    <failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+]]></failure>
+  </testcase>
+  <testcase name="| environment |" classname="| environment |" time="0.006">
+    <failure message="expected:&lt;true&gt; but was:&lt;false&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+]]></failure>
+  </testcase>
+  <testcase name="| environment |" classname="| environment |" time="4.119"/>
+  <testcase name="| environment |" classname="| environment |" time="4.342"/>
+  <testcase name="Then Sign out of the user" classname="| environment |" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then Sign out of the user" classname="| environment |" time="0"/>
+  <testcase name="Then Sign out of the user" classname="| environment |" time="0"/>
+  <testcase name="Then Sign out of the user" classname="| environment |" time="0"/>
+  <testcase name="Given Load the url &quot;environment&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on Login button" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Setting &quot;Email&quot; in login &quot;txtUserName&quot; from output" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Setting &quot;Password&quot; in login &quot;txtPassword&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on the &quot;loginbtn&quot; button" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on find jobs" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on find jobs" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Setting Job Serach filter as &quot;Full-Time&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Setting Job Serach filter as &quot;Permanent&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then To verify the filtered job results and click view and apply" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Wait for the page to load &quot;4000&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Wait for the page to load &quot;4000&quot;" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on &quot;Job Tracker&quot; tab" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Clicking on &quot;Job Tracker&quot; tab" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then To verify the applied job" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then To verify the filtered job results and click view and save" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then To verify the saved job" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0"/>
+  <testcase name="Then Sign out of the user" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="0.001"/>
+  <testcase name="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" classname="| environment | Full-Time | Permanent | Logistics Distribution and Supply Chain |" time="4.06"/>
+  <testcase name="Then Clicking on &quot;Settings&quot; in top toggle" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Settings&quot; in top toggle" classname="| environment |" time="0"/>
+  <testcase name="Then Selecting &quot;Spanish&quot; language from dropdown" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Language Save" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Language Save" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Acerca de&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Rastreador de empleos&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Centro de asociados&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Recursos profesionales&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Ajustes&quot; in top toggle" classname="| environment |" time="0"/>
+  <testcase name="Then Selecting Ingls language from dropdown" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;oldPassword&quot; in change password as &quot;Password&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;newPassword&quot; in change password as &quot;ChangedPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Wait for the page to load &quot;4000&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;cfmPassword&quot; in change password as &quot;ChangedPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on Change password Save" classname="| environment |" time="0"/>
+  <testcase name="Then Wait for the page to load &quot;7000&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Setting &quot;ChangedPassword&quot; in login &quot;txtPassword&quot;" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Job Tracker&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Associate Center&quot; tab" classname="| environment |" time="0"/>
+  <testcase name="Then Clicking on &quot;Career Resources&quot; tab" classname="| environment |" time="0"/>
+</testsuite>
