@@ -20,8 +20,16 @@ public class RIT_obj{
 	public WebElement Profile_Name;
 	@FindBy(how= How.XPATH, using = "//h3[contains(@id,'WelcomeUsernameid')]")
 	public WebElement Welcome_text;
+	
 	public WebElement Tiles_homepage(int count) {
 		return driver.findElement(By.xpath("//div[@class='row']/div["+count+"]/div/a/span"));
+	}
+	
+	public WebElement Tiles_homepage_navigation(String str) {
+		return driver.findElement(By.xpath("//span[contains(text(),'"+str+"')]"));
+	}
+	public WebElement Tiles_homepage_navigation_active(String str) {
+		return driver.findElement(By.xpath("//ul[@class='sidebar-navigation']//a[contains(text(),'"+str+"') and @class='tab-active-inner-link']"));
 	}
 	
 	

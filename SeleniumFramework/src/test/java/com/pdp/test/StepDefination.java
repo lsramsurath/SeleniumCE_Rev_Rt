@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -793,7 +794,24 @@ public void To_verify_the_home_page_objects() throws Throwable {
     }
 	
 }
-
+@Then("^To verify the \"(.*?)\" homepage tile$")
+public void To_verify_the_home_page_objects_navigation(String tilename) throws Throwable {
+    try {
+    	Thread.sleep(3000);
+    	user.sync(driver,rit_obj.Tiles_homepage_navigation(tilename));
+		user.click(rit_obj.Tiles_homepage_navigation(tilename));
+        boolean flag=false;
+        if(user.isElementPrsent(rit_obj.Tiles_homepage_navigation_active(tilename))) flag=true;
+        Assert.assertEquals(true,flag);
+        Thread.sleep(5000);
+        driver.navigate().back();
+        WebDriverWait wait = new WebDriverWait(driver,30);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='profile-full-name']")));
+        }catch(Exception e) {
+    	ExceptionHandler.handler(e, "Login Page");
+    }
+	
+}
 
 
 

@@ -460,3 +460,492 @@ Session ID: 670bc5e1f3eb5ea1ebb95a90a8b40e81
 2021-02-16 15:15:07,500 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
 2021-02-16 15:15:07,500 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
 2021-02-16 15:15:31,153 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> passed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-22 11:03:42,338 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-22 11:03:42,343 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-22 11:03:42,344 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-22 11:03:42,345 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-22 11:03:42,345 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-22 13:34:36,620 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-22 13:34:36,640 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-22 13:34:36,640 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Login to Rt application      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-22 13:34:36,640 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-22 13:34:36,640 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-22 13:35:08,367 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> passed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:02:04,146 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-23 17:02:04,175 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-23 17:02:04,175 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:02:04,176 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-23 17:02:04,176 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-23 17:02:43,179 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> passed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:37:13,791 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-23 17:37:13,956 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-23 17:37:13,956 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:37:13,957 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-23 17:37:13,957 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-23 17:37:44,715 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: newInstance0 , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:37:44,716 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2021-02-23 17:37:44,716 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: newInstance , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:37:44,716 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+2021-02-23 17:37:44,716 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 45, for Method: newInstance , in class sun.reflect.DelegatingConstructorAccessorImpl
+2021-02-23 17:37:44,716 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+2021-02-23 17:37:44,717 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 423, for Method: newInstance , in class java.lang.reflect.Constructor
+2021-02-23 17:37:44,717 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+2021-02-23 17:37:44,717 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 206, for Method: createThrowable , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:37:44,717 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+2021-02-23 17:37:44,718 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 158, for Method: throwIfResponseFailed , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:37:44,719 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+2021-02-23 17:37:44,719 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 678, for Method: execute , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:37:44,719 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+2021-02-23 17:37:44,720 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 363, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:37:44,720 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+2021-02-23 17:37:44,720 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 500, for Method: findElementByXPath , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:37:44,720 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+2021-02-23 17:37:44,720 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 361, for Method: findElement , in class org.openqa.selenium.By$ByXPath
+2021-02-23 17:37:44,721 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+2021-02-23 17:37:44,721 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 355, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:37:44,721 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+2021-02-23 17:37:44,721 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 29, for Method: Tiles_homepage_navigation , in class com.pdp.pageobjects.RIT_obj
+2021-02-23 17:37:44,722 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.pageobjects.RIT_obj.Tiles_homepage_navigation(RIT_obj.java:29)
+2021-02-23 17:37:44,722 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 800, for Method: To_verify_the_home_page_objects_navigation , in class com.pdp.test.StepDefination
+2021-02-23 17:37:44,722 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.test.StepDefination.To_verify_the_home_page_objects_navigation(StepDefination.java:800)
+2021-02-23 17:37:44,722 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: invoke0 , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:37:44,723 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-02-23 17:37:44,723 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: invoke , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:37:44,723 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2021-02-23 17:37:44,723 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 43, for Method: invoke , in class sun.reflect.DelegatingMethodAccessorImpl
+2021-02-23 17:37:44,723 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 498, for Method: invoke , in class java.lang.reflect.Method
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Method.invoke(Method.java:498)
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: call , in class cucumber.runtime.Utils$1
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils$1.call(Utils.java:37)
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 13, for Method: timeout , in class cucumber.runtime.Timeout
+2021-02-23 17:37:44,724 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Timeout.timeout(Timeout.java:13)
+2021-02-23 17:37:44,725 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 31, for Method: invoke , in class cucumber.runtime.Utils
+2021-02-23 17:37:44,725 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils.invoke(Utils.java:31)
+2021-02-23 17:37:44,725 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 38, for Method: execute , in class cucumber.runtime.java.JavaStepDefinition
+2021-02-23 17:37:44,725 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+2021-02-23 17:37:44,726 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runStep , in class cucumber.runtime.StepDefinitionMatch
+2021-02-23 17:37:44,726 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+2021-02-23 17:37:44,726 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 299, for Method: runStep , in class cucumber.runtime.Runtime
+2021-02-23 17:37:44,726 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Runtime.runStep(Runtime.java:299)
+2021-02-23 17:37:44,726 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: runStep , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:37:44,727 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+2021-02-23 17:37:44,727 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 39, for Method: runSteps , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:37:44,727 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+2021-02-23 17:37:44,727 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: run , in class cucumber.runtime.model.CucumberScenario
+2021-02-23 17:37:44,727 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 91, for Method: run , in class cucumber.runtime.junit.ExecutionUnitRunner
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:91)
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:37:44,728 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:37:44,729 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:37:44,729 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:37:44,729 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:37:44,729 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:37:44,729 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:37:44,730 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 59, for Method: run , in class cucumber.runtime.junit.ExamplesRunner
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:37:44,731 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:37:44,732 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:37:44,732 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:37:44,732 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:37:44,732 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:37:44,733 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:37:44,733 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,734 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:37:44,735 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: run , in class cucumber.runtime.junit.ScenarioOutlineRunner
+2021-02-23 17:37:44,735 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)
+2021-02-23 17:37:44,735 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:37:44,735 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 18, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:37:44,736 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:37:44,737 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,738 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:37:44,738 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 70, for Method: run , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:37:44,738 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 93, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:93)
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:37)
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:37:44,739 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:37:44,740 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 98, for Method: run , in class cucumber.api.junit.Cucumber
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.run(Cucumber.java:98)
+2021-02-23 17:37:44,741 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 89, for Method: run , in class org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 41, for Method: run , in class org.eclipse.jdt.internal.junit.runner.TestExecution
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 541, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+2021-02-23 17:37:44,742 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 763, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:37:44,743 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+2021-02-23 17:37:44,743 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 463, for Method: run , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:37:44,743 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+2021-02-23 17:37:44,743 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 209, for Method: main , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:37:44,743 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2021-02-23 17:37:44,744 [main] INFO  (com.pdp.utilities.Log:32:info) - Unexpected error occured on page Login Pageorg.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //span[contains(text(),Service Utilization)] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[contains(text(),Service Utilization)]' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: '3050-GSQMXH2', ip: '192.168.42.139', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56996}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\us385667\AppData\Local\Temp\scoped_dir16980_31358}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.182, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c1c50084b4d09b0d85599ccf56329e81
+*** Element info: {Using=xpath, value=//span[contains(text(),Service Utilization)]}
+2021-02-23 17:37:45,571 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> failed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:39:30,854 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-23 17:39:30,859 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-23 17:39:30,860 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:39:30,861 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-23 17:39:30,861 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-23 17:40:09,078 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: newInstance0 , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:40:09,078 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2021-02-23 17:40:09,079 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: newInstance , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:40:09,079 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+2021-02-23 17:40:09,080 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 45, for Method: newInstance , in class sun.reflect.DelegatingConstructorAccessorImpl
+2021-02-23 17:40:09,080 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+2021-02-23 17:40:09,081 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 423, for Method: newInstance , in class java.lang.reflect.Constructor
+2021-02-23 17:40:09,081 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+2021-02-23 17:40:09,082 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 206, for Method: createThrowable , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:40:09,083 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+2021-02-23 17:40:09,083 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 158, for Method: throwIfResponseFailed , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:40:09,087 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+2021-02-23 17:40:09,087 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 678, for Method: execute , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:40:09,088 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+2021-02-23 17:40:09,090 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 363, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:40:09,093 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+2021-02-23 17:40:09,094 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 500, for Method: findElementByXPath , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:40:09,094 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+2021-02-23 17:40:09,095 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 361, for Method: findElement , in class org.openqa.selenium.By$ByXPath
+2021-02-23 17:40:09,095 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+2021-02-23 17:40:09,095 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 355, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:40:09,095 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+2021-02-23 17:40:09,096 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 29, for Method: Tiles_homepage_navigation , in class com.pdp.pageobjects.RIT_obj
+2021-02-23 17:40:09,096 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.pageobjects.RIT_obj.Tiles_homepage_navigation(RIT_obj.java:29)
+2021-02-23 17:40:09,096 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 800, for Method: To_verify_the_home_page_objects_navigation , in class com.pdp.test.StepDefination
+2021-02-23 17:40:09,096 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.test.StepDefination.To_verify_the_home_page_objects_navigation(StepDefination.java:800)
+2021-02-23 17:40:09,097 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: invoke0 , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:40:09,097 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-02-23 17:40:09,098 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: invoke , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:40:09,098 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2021-02-23 17:40:09,098 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 43, for Method: invoke , in class sun.reflect.DelegatingMethodAccessorImpl
+2021-02-23 17:40:09,098 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2021-02-23 17:40:09,098 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 498, for Method: invoke , in class java.lang.reflect.Method
+2021-02-23 17:40:09,099 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Method.invoke(Method.java:498)
+2021-02-23 17:40:09,099 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: call , in class cucumber.runtime.Utils$1
+2021-02-23 17:40:09,099 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils$1.call(Utils.java:37)
+2021-02-23 17:40:09,099 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 13, for Method: timeout , in class cucumber.runtime.Timeout
+2021-02-23 17:40:09,099 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Timeout.timeout(Timeout.java:13)
+2021-02-23 17:40:09,100 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 31, for Method: invoke , in class cucumber.runtime.Utils
+2021-02-23 17:40:09,100 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils.invoke(Utils.java:31)
+2021-02-23 17:40:09,100 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 38, for Method: execute , in class cucumber.runtime.java.JavaStepDefinition
+2021-02-23 17:40:09,101 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+2021-02-23 17:40:09,101 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runStep , in class cucumber.runtime.StepDefinitionMatch
+2021-02-23 17:40:09,101 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+2021-02-23 17:40:09,101 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 299, for Method: runStep , in class cucumber.runtime.Runtime
+2021-02-23 17:40:09,102 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Runtime.runStep(Runtime.java:299)
+2021-02-23 17:40:09,108 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: runStep , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 39, for Method: runSteps , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: run , in class cucumber.runtime.model.CucumberScenario
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+2021-02-23 17:40:09,109 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 91, for Method: run , in class cucumber.runtime.junit.ExecutionUnitRunner
+2021-02-23 17:40:09,110 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:91)
+2021-02-23 17:40:09,110 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:40:09,110 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:40:09,110 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:40:09,111 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:40:09,111 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:40:09,111 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:40:09,111 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:40:09,111 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:40:09,112 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,112 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:40:09,112 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,112 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:40:09,112 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:40:09,113 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:40:09,113 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,113 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:40:09,113 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 59, for Method: run , in class cucumber.runtime.junit.ExamplesRunner
+2021-02-23 17:40:09,113 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)
+2021-02-23 17:40:09,114 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:40:09,114 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:40:09,114 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:40:09,114 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:40:09,115 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:40:09,115 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:40:09,115 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:40:09,116 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:40:09,117 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,117 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:40:09,118 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,119 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:40:09,119 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:40:09,119 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:40:09,120 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,120 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:40:09,120 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: run , in class cucumber.runtime.junit.ScenarioOutlineRunner
+2021-02-23 17:40:09,121 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)
+2021-02-23 17:40:09,121 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:40:09,121 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)
+2021-02-23 17:40:09,121 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 18, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:40:09,121 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)
+2021-02-23 17:40:09,122 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:40:09,124 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:40:09,124 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:40:09,124 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:40:09,125 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:40:09,127 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,127 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:40:09,128 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 70, for Method: run , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:40:09,128 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)
+2021-02-23 17:40:09,128 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 93, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:40:09,128 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:93)
+2021-02-23 17:40:09,128 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:40:09,129 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:37)
+2021-02-23 17:40:09,129 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:40:09,130 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,131 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:40:09,131 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:40:09,131 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:40:09,132 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:40:09,132 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:40:09,132 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 98, for Method: run , in class cucumber.api.junit.Cucumber
+2021-02-23 17:40:09,132 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.run(Cucumber.java:98)
+2021-02-23 17:40:09,133 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 89, for Method: run , in class org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference
+2021-02-23 17:40:09,133 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+2021-02-23 17:40:09,133 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 41, for Method: run , in class org.eclipse.jdt.internal.junit.runner.TestExecution
+2021-02-23 17:40:09,133 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 541, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 763, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 463, for Method: run , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:40:09,134 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+2021-02-23 17:40:09,135 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 209, for Method: main , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:40:09,135 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2021-02-23 17:40:09,137 [main] INFO  (com.pdp.utilities.Log:32:info) - Unexpected error occured on page Login Pageorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Investment')]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: '3050-GSQMXH2', ip: '192.168.42.139', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57074}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\us385667\AppData\Local\Temp\scoped_dir2868_27956}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.182, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0bb558087b4f47bbac75d750ac16148b
+*** Element info: {Using=xpath, value=//span[contains(text(),'Investment')]}
+2021-02-23 17:40:09,568 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> failed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:43:41,924 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-23 17:43:41,928 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-23 17:43:41,928 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:43:41,928 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-23 17:43:41,929 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-23 17:44:25,577 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: newInstance0 , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:44:25,578 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2021-02-23 17:44:25,579 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: newInstance , in class sun.reflect.NativeConstructorAccessorImpl
+2021-02-23 17:44:25,579 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+2021-02-23 17:44:25,579 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 45, for Method: newInstance , in class sun.reflect.DelegatingConstructorAccessorImpl
+2021-02-23 17:44:25,580 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+2021-02-23 17:44:25,580 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 423, for Method: newInstance , in class java.lang.reflect.Constructor
+2021-02-23 17:44:25,580 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+2021-02-23 17:44:25,581 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 206, for Method: createThrowable , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:44:25,581 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+2021-02-23 17:44:25,581 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 158, for Method: throwIfResponseFailed , in class org.openqa.selenium.remote.ErrorHandler
+2021-02-23 17:44:25,582 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+2021-02-23 17:44:25,583 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 678, for Method: execute , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:44:25,583 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+2021-02-23 17:44:25,583 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 363, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:44:25,586 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+2021-02-23 17:44:25,587 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 500, for Method: findElementByXPath , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:44:25,587 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+2021-02-23 17:44:25,587 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 361, for Method: findElement , in class org.openqa.selenium.By$ByXPath
+2021-02-23 17:44:25,587 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+2021-02-23 17:44:25,587 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 355, for Method: findElement , in class org.openqa.selenium.remote.RemoteWebDriver
+2021-02-23 17:44:25,588 [main] INFO  (com.pdp.utilities.Log:32:info) - org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+2021-02-23 17:44:25,588 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 29, for Method: Tiles_homepage_navigation , in class com.pdp.pageobjects.RIT_obj
+2021-02-23 17:44:25,588 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.pageobjects.RIT_obj.Tiles_homepage_navigation(RIT_obj.java:29)
+2021-02-23 17:44:25,588 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 800, for Method: To_verify_the_home_page_objects_navigation , in class com.pdp.test.StepDefination
+2021-02-23 17:44:25,589 [main] INFO  (com.pdp.utilities.Log:32:info) - com.pdp.test.StepDefination.To_verify_the_home_page_objects_navigation(StepDefination.java:800)
+2021-02-23 17:44:25,589 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: -2, for Method: invoke0 , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:44:25,589 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2021-02-23 17:44:25,589 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 62, for Method: invoke , in class sun.reflect.NativeMethodAccessorImpl
+2021-02-23 17:44:25,589 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 43, for Method: invoke , in class sun.reflect.DelegatingMethodAccessorImpl
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 498, for Method: invoke , in class java.lang.reflect.Method
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - java.lang.reflect.Method.invoke(Method.java:498)
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: call , in class cucumber.runtime.Utils$1
+2021-02-23 17:44:25,590 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils$1.call(Utils.java:37)
+2021-02-23 17:44:25,591 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 13, for Method: timeout , in class cucumber.runtime.Timeout
+2021-02-23 17:44:25,591 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Timeout.timeout(Timeout.java:13)
+2021-02-23 17:44:25,591 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 31, for Method: invoke , in class cucumber.runtime.Utils
+2021-02-23 17:44:25,591 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Utils.invoke(Utils.java:31)
+2021-02-23 17:44:25,592 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 38, for Method: execute , in class cucumber.runtime.java.JavaStepDefinition
+2021-02-23 17:44:25,592 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+2021-02-23 17:44:25,592 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runStep , in class cucumber.runtime.StepDefinitionMatch
+2021-02-23 17:44:25,592 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+2021-02-23 17:44:25,592 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 299, for Method: runStep , in class cucumber.runtime.Runtime
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.Runtime.runStep(Runtime.java:299)
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: runStep , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 39, for Method: runSteps , in class cucumber.runtime.model.StepContainer
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+2021-02-23 17:44:25,593 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 44, for Method: run , in class cucumber.runtime.model.CucumberScenario
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 91, for Method: run , in class cucumber.runtime.junit.ExecutionUnitRunner
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:91)
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:44:25,594 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:44:25,595 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:44:25,595 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:44:25,595 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:44:25,595 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:44:25,596 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:44:25,596 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,596 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:44:25,596 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:44:25,597 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 59, for Method: run , in class cucumber.runtime.junit.ExamplesRunner
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 127, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:127)
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 26, for Method: runChild , in class org.junit.runners.Suite
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.Suite.runChild(Suite.java:26)
+2021-02-23 17:44:25,598 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:44:25,599 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:44:25,599 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:44:25,602 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:44:25,602 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,604 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:44:25,604 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,604 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:44:25,604 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:44:25,605 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:44:25,605 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,605 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:44:25,605 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: run , in class cucumber.runtime.junit.ScenarioOutlineRunner
+2021-02-23 17:44:25,605 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)
+2021-02-23 17:44:25,606 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:44:25,606 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)
+2021-02-23 17:44:25,606 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 18, for Method: runChild , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:44:25,606 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)
+2021-02-23 17:44:25,606 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,607 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:44:25,608 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:44:25,608 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:44:25,608 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,608 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 70, for Method: run , in class cucumber.runtime.junit.FeatureRunner
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 93, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:93)
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 37, for Method: runChild , in class cucumber.api.junit.Cucumber
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.runChild(Cucumber.java:37)
+2021-02-23 17:44:25,609 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 238, for Method: run , in class org.junit.runners.ParentRunner$3
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 63, for Method: schedule , in class org.junit.runners.ParentRunner$1
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 236, for Method: runChildren , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+2021-02-23 17:44:25,610 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 53, for Method: access$000 , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,611 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+2021-02-23 17:44:25,612 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 229, for Method: evaluate , in class org.junit.runners.ParentRunner$2
+2021-02-23 17:44:25,612 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+2021-02-23 17:44:25,612 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 309, for Method: run , in class org.junit.runners.ParentRunner
+2021-02-23 17:44:25,613 [main] INFO  (com.pdp.utilities.Log:32:info) - org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+2021-02-23 17:44:25,613 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 98, for Method: run , in class cucumber.api.junit.Cucumber
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - cucumber.api.junit.Cucumber.run(Cucumber.java:98)
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 89, for Method: run , in class org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 41, for Method: run , in class org.eclipse.jdt.internal.junit.runner.TestExecution
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+2021-02-23 17:44:25,614 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 541, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 763, for Method: runTests , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 463, for Method: run , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+2021-02-23 17:44:25,615 [main] INFO  (com.pdp.utilities.Log:32:info) - Error found at line number: 209, for Method: main , in class org.eclipse.jdt.internal.junit.runner.RemoteTestRunner
+2021-02-23 17:44:25,616 [main] INFO  (com.pdp.utilities.Log:32:info) - org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2021-02-23 17:44:25,619 [main] INFO  (com.pdp.utilities.Log:32:info) - Unexpected error occured on page Login Pageorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Candidate Status')]"}
+  (Session info: chrome=88.0.4324.182)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: '3050-GSQMXH2', ip: '192.168.42.139', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57399}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir=C:\Users\us385667\AppData\Local\Temp\scoped_dir12396_18007}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.182, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f9689c232e5cae989ecb01ee66bad5c6
+*** Element info: {Using=xpath, value=//span[contains(text(),'Candidate Status')]}
+2021-02-23 17:44:26,018 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> failed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:46:19,500 [main] INFO  (com.pdp.utilities.Log:16:startTestCase) - **********************************************************************
+2021-02-23 17:46:19,504 [main] INFO  (com.pdp.utilities.Log:17:startTestCase) - ***********************************************************************
+2021-02-23 17:46:19,505 [main] INFO  (com.pdp.utilities.Log:18:startTestCase) - $$$$$$$$$$   Starting Scenario execution for Scenario Name >> Rev Registration manually      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-02-23 17:46:19,505 [main] INFO  (com.pdp.utilities.Log:19:startTestCase) - **********************************************************************
+2021-02-23 17:46:19,505 [main] INFO  (com.pdp.utilities.Log:20:startTestCase) - ***********************************************************************
+2021-02-23 17:47:48,886 [main] INFO  (com.pdp.utilities.Log:26:endTestCase) - $$$$$$$$$$   Ending scenario execution with Execution result as >> passed      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
